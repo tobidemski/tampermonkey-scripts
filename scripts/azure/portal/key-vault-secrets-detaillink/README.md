@@ -3,10 +3,10 @@ Changes the secrets names in the overview page to a link to access the secret de
 
 
 Before:
-![key vault secrets list before](https://github.com/tobidemski/tampermonkey-scripts/blob/main/scripts/azure/portal/key-vault-secrets-detaillink/key-vault-secrets-before.png?raw=true)
+![key vault secrets list before](https://github.com/tobidemski/tampermonkey-scripts/blob/main/scripts/azure/portal/key-vault-secrets-detaillink/images/key-vault-secrets-before.png?raw=true)
 
 After:
-![key vault secrets list after](https://github.com/tobidemski/tampermonkey-scripts/blob/main/scripts/azure/portal/key-vault-secrets-detaillink/key-vault-secrets-after.png?raw=true)
+![key vault secrets list after](https://github.com/tobidemski/tampermonkey-scripts/blob/main/scripts/azure/portal/key-vault-secrets-detaillink/images/key-vault-secrets-after.png?raw=true)
 
 ## Installation
 
